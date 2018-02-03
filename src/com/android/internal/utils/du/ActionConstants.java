@@ -220,7 +220,7 @@ public class ActionConstants {
               + dl(OVERVIEW_BUTTON_TAG)
               + dl(SystemAction.Overview.mAction)    + dl(SystemAction.Overview.mLabelRes)     + dl(EMPTY)
               + dl(SystemAction.SplitScreen.mAction)    + dl(SystemAction.SplitScreen.mLabelRes)     + dl(EMPTY)
-              + dl(SystemAction.LastApp.mAction)    + dl(SystemAction.LastApp.mLabelRes)     + dl(EMPTY)
+              + dl(SystemAction.NoAction.mAction)    + dl(SystemAction.NoAction.mLabelRes)     + dl(EMPTY)
 
               + dl(MENU_BUTTON_TAG)
               + dl(SystemAction.Menu.mAction)        + dl(SystemAction.Menu.mLabelRes)         + dl(EMPTY)
